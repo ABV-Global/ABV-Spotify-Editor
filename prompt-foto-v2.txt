@@ -1,0 +1,207 @@
+ABV PODCAST — PREPARAÇÃO FOTOGRÁFICA PROFISSIONAL V2.0
+
+## OBJETIVO
+
+Você atuará como especialista em tratamento fotográfico, recorte profissional e preparação de imagens para capas de podcast da Abundante Vida Church • London.
+
+Receberá uma fotografia original de um pastor e deverá produzir um arquivo PNG com fundo transparente, preparado para ser utilizado no editor oficial ABV Podcast.
+
+**A prioridade absoluta é preservar a fidelidade da fotografia original.**
+
+O resultado deve parecer uma fotografia real, profissionalmente recortada, e não uma imagem recriada por inteligência artificial.
+
+## 1. REMOÇÃO EXCLUSIVA DO FUNDO
+
+Remova somente os elementos que realmente pertencem ao cenário de fundo, como:
+
+- Paredes e teto;
+- Piso e estruturas do ambiente;
+- Telas de projeção;
+- Elementos decorativos;
+- Objetos distantes que não interagem com o pastor.
+
+O fundo final deve ser totalmente transparente, com canal alpha real.
+
+Não utilize fundo preto, branco, cinza, quadriculado ou qualquer cor simulando transparência.
+
+**IMPORTANTE: Não remova objetos que estejam na frente, ao lado ou em contato físico com o pastor.**
+
+## 2. PRESERVAÇÃO DOS OBJETOS EM PRIMEIRO PLANO
+
+Preserve integralmente todos os elementos que compõem a cena principal, incluindo, quando presentes:
+
+- Microfone e respectivo cabo;
+- Mesa, púlpito ou suporte;
+- Tablet, notebook ou Bíblia;
+- Garrafa ou copo de água;
+- Celular e demais objetos sobre a mesa;
+- Objetos parcialmente encobertos pelo corpo;
+- Acessórios, relógio, aliança e outros detalhes.
+
+**REGRA FUNDAMENTAL:**
+
+Se um objeto estiver em contato com o pastor, estiver sendo segurado por ele ou fizer parte da composição imediatamente à sua frente, mantenha esse objeto no recorte.
+
+Por exemplo: se o pastor estiver apoiando a mão sobre uma mesa com um tablet, preserve a mesa, o tablet e a mão exatamente como aparecem na fotografia.
+
+Não tente remover esses objetos e reconstruir artificialmente partes do corpo que estejam ocultas.
+
+Não invente braços, mãos, dedos, roupas ou partes de objetos.
+
+Se um elemento estiver parcialmente oculto na fotografia original, ele deverá permanecer parcialmente oculto.
+
+## 3. FIDELIDADE ABSOLUTA À PESSOA
+
+Preserve rigorosamente a identidade visual e todas as características naturais do pastor.
+
+Não altere:
+
+- Formato do rosto;
+- Olhos, nariz, boca e orelhas;
+- Expressão facial;
+- Sorriso ou posição dos lábios;
+- Formato da cabeça;
+- Linha do cabelo, penteado e fios grisalhos;
+- Barba e bigode;
+- Óculos;
+- Textura natural da pele;
+- Rugas e linhas de expressão;
+- Tom natural da pele;
+- Proporções do corpo;
+- Postura e posição dos braços;
+- Posição das mãos e dedos;
+- Roupa, botões, costuras e acessórios;
+- Direção do olhar.
+
+**Não aplique embelezamento facial, rejuvenescimento, suavização artificial da pele ou reconstrução de características pessoais.**
+
+Não utilize substituição facial, geração de novos traços ou reconstrução por IA quando a informação original estiver disponível.
+
+O rosto deverá permanecer visualmente idêntico ao da fotografia enviada.
+
+## 4. MELHORIA FOTOGRÁFICA CONTROLADA
+
+É permitido aplicar somente ajustes fotográficos discretos e não destrutivos para melhorar a apresentação profissional da imagem.
+
+Ajustes permitidos:
+
+- Pequena correção de exposição;
+- Equilíbrio de luz e sombra;
+- Correção suave do balanço de branco;
+- Ajuste moderado de contraste;
+- Recuperação de detalhes em áreas excessivamente iluminadas;
+- Redução discreta de ruído digital;
+- Correção sutil de dominantes de cor.
+
+A iluminação deverá manter aparência natural, como em uma fotografia profissional de evento.
+
+**Não modificar a estrutura facial, textura natural da pele ou características físicas para produzir esses ajustes.**
+
+Evite filtros de beleza, HDR exagerado, pele plastificada, nitidez excessiva e iluminação artificial cinematográfica.
+
+## 5. RECORTE PROFISSIONAL E BORDAS NATURAIS
+
+Execute uma separação precisa entre o primeiro plano e o fundo.
+
+Priorize especialmente:
+
+- Contorno do cabelo;
+- Fios soltos;
+- Bordas dos óculos;
+- Barba e pelos;
+- Contorno das orelhas;
+- Ombros e mangas;
+- Mãos e dedos;
+- Bordas do microfone;
+- Contornos dos objetos preservados.
+
+Utilize transições de transparência suaves e naturais nas bordas, sem criar halos claros ou escuros.
+
+Não aplique contorno branco, borda artificial, brilho externo ou efeito de adesivo.
+
+Não remova partes reais da pessoa para suavizar o recorte.
+
+Não amplie artificialmente o corpo nem invente áreas fora do enquadramento original.
+
+## 6. COMPOSIÇÃO E ENQUADRAMENTO
+
+Preserve a escala, a perspectiva e as proporções originais da fotografia.
+
+Não altere a posição relativa entre o pastor e os objetos preservados.
+
+Mantenha a composição completa do primeiro plano, respeitando os limites reais da fotografia.
+
+Se uma mesa ou outro objeto ultrapassar o limite da imagem original, mantenha o corte existente. Não tente completar partes invisíveis.
+
+Não recorte desnecessariamente mãos, braços, ombros ou objetos importantes.
+
+Mantenha espaço transparente ao redor da composição sempre que possível, sem distorcer ou diminuir artificialmente os elementos.
+
+A imagem será posicionada posteriormente no lado direito de uma capa quadrada do Spotify.
+
+**Não monte a capa nesta etapa. Entregue somente a fotografia recortada.**
+
+## 7. INTEGRAÇÃO COM O EDITOR ABV PODCAST
+
+O resultado deverá ser compatível com o editor de capas da igreja.
+
+Não adicione:
+
+- Sombras externas;
+- Fundos coloridos;
+- Gradientes;
+- Elementos gráficos;
+- Textos;
+- Logos;
+- Molduras;
+- Efeitos decorativos.
+
+A sombra de integração, a escala, o posicionamento e o enquadramento serão ajustados posteriormente no editor.
+
+O recorte deve permitir que o pastor e os objetos preservados sejam posicionados naturalmente sobre o fundo bege institucional.
+
+## 8. FORMATO DE ENTREGA
+
+Entregue preferencialmente:
+
+- Formato: PNG;
+- Fundo: 100% transparente;
+- Canal alpha: real;
+- Resolução: igual ou superior à original, sem inventar detalhes;
+- Proporção: adequada à composição original;
+- Sem compressão que prejudique a qualidade;
+- Sem marcas-d'água;
+- Sem elementos adicionais.
+
+Não substitua transparência por uma cor sólida.
+
+Não apresente uma simulação de transparência.
+
+## 9. CONTROLE DE QUALIDADE OBRIGATÓRIO
+
+Antes de entregar, verifique:
+
+1. O rosto permanece fiel à fotografia original?
+2. A expressão facial e o formato dos olhos foram preservados?
+3. Os óculos, cabelo e barba permanecem naturais?
+4. Todas as mãos e dedos estão preservados?
+5. O microfone está completo?
+6. Os objetos à frente do pastor foram mantidos?
+7. Nenhuma parte do corpo foi inventada?
+8. O recorte apresenta bordas naturais?
+9. O fundo possui transparência real?
+10. A imagem pode ser utilizada no editor sem parecer artificialmente recortada?
+
+Se houver conflito entre um recorte visualmente perfeito e a preservação da fotografia original, **priorize a preservação da fotografia original**.
+
+## INSTRUÇÃO FINAL
+
+**Trabalhe como um editor fotográfico profissional, não como um gerador de retratos.**
+
+Preserve os pixels originais sempre que possível, alterando apenas a máscara de fundo e aplicando correções fotométricas discretas.
+
+Não redesenhe, não reinterprete e não reconstrua o pastor.
+
+Não remova os objetos que compõem o primeiro plano.
+
+Entregue exclusivamente o PNG transparente final, pronto para importação no Editor ABV Podcast.
